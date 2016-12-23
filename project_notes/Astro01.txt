@@ -1,0 +1,109 @@
+iAm       card[0]    fire[0]      Aa
+iHave     fixd[0]    arth[0]      Bb
+iThink    muta[0]    air_[0]      Cc
+iFeel     card[1]    watr[0]      Ad
+iLove     fixd[1]    fire[1]      Ba
+iServe    muta[1]    arth[1]      Cb
+weAre     card[2]    air_[1]      Ac
+weHave    fixd[2]    watr[1]      Bd
+weThink   muta[2]    fire[2]      Ca
+weFeel    card[3]    arth[2]      Ab
+weLove    fixd[3]    air_[2]      Bc
+weServe   muta[3]    watr[2]      Cd
+
+
+* water/air lean towards many (except gemini and cancer)
+* fire/earth lean towards self (except sag and virgo)
+* leans by +-(1/6) of middle (oo/ooo) and (ooo/oo)
+
+* specify direction? only if traveled outside
+
+
+skip twelve (1)         100
+skip eleven (11/12)     91[2/3]
+skip ten    ()          80[1/3]
+skip nine   (.75)       75
+skip eight              66[2/3]
+skip seven
+skip six, six results
+skip five,
+skip four, four results
+skip three, three results
+skip two, six results
+skip one (12)
+...
+
+twelve antipodes        (6) (/2)
+  one to many
+1-7     toBe        Aac   fire and _air, cardinal action to cardinal spirit
+2-8     toHave      Bbd   arth and watr, fixed presence to fixed will
+3-9     toThink     Cca   _air and fire, mutable spirit to mutable action
+4-10    toFeel      Adb   watr and arth, cardinal will to cardinal presence
+5-11    toLove      Bac   fire and _air, fixed action to fixed spirit
+6-12    toServe     Cbd   arth and watr, mutable presence to mutable will
+  many to one
+
+
+
+
+four trines          (4) (/3)
+1-5-9
+  iAm/iLove/weThink
+  fire(o)/1fire/2_fire
+3-7-11
+  iThink/weAre/weLove
+  1_air/2_air/2/_air
+2-6-10
+  iHave/iServe/weFeel
+
+4-8-12
+  iFeel/wHave/weServe
+
+
+three squares        (3) (/4)
+1-4-7-10  iAm/iFeel/weAre/weFeel      Be and Feel
+2-5-8-11  iHave/iLove/weHave/weLove   Have and Love
+3-6-9-12  iThink/iServe               Think and Serve
+
+
+perfect fifths up
+1-6     iAm-iServe
+2-7     iHave-weAre
+3-8     iThink-weHave
+4-9     iFeel-weThink
+5-10    iLove-weFeel
+6-11    iServe-weLove
+7-12    weAre-weServe
+8-1     weHave-iAm
+9-2     weThink-iHave
+10-3    weFeel-iThink
+11-4    weLove-iFeel
+12-5    weServe-iLove
+
+1-6-11-4-9-2-7-12-5-10-3-8-
+
+iAm, iServe, weLove, iFeel, weThink, iHave, weAre, weServe, iLove, weFeel, iThink, weHave
+
+Ares, Virgo, Aquarius, Cancer, Sagittarius, Scorpio, Libra, Pisces, Leo, Capricorn, Gemini, Scorpio
+
+
+
+perfect fifths down
+dont make me tell you
+
+two hexagons         (+2) (/6)
+
+/7
+
+
+/8   written as /4(/2)
+
+
+
+/9  written as /3(/4)
+
+
+
+/10 written as /2(/5)
+
+/11
